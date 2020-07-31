@@ -1,0 +1,128 @@
+body{
+	position: relative;
+}
+h4 {
+	font-size: 18px;
+}
+
+
+.logo{
+	width: 100px;
+}
+
+.branding{
+	background-color: #f2f2f2;
+	padding: 15px 40px;
+	margin: 0;
+}
+
+.header{
+	padding: 40px 50px;
+	margin: 0;
+}
+
+h3{
+	font-size: 24px;
+}
+
+.back-btn{
+	padding-right:35px;
+	color: #9C9B9B; 
+}
+
+.back-btn:hover{
+	color: #3E3E3E;
+}
+
+.input-col{
+	padding: 0;
+}
+
+#group-name-id {
+	margin-top: -5%;
+}
+
+.input-group {
+	margin-top: -1%;
+}
+
+.form-control {
+	border: solid 1px;
+}
+
+.form-group {
+	margin-top: 2%;
+}
+
+.btn-success {
+	margin-top: 5%;
+}
+
+.btn-submit {
+	margin-top: 5%;
+	background-color: #5254c4;
+	border: none;
+	padding: 10px 15px;
+	font-size: 14px;
+}
+
+.btn-submit:hover{
+	background-color: #4244ad;
+}
+
+.add-member {
+	margin-top: 1%;
+	margin-left: -3%;
+}
+
+.btn-add{
+	font-size: 14px;
+	
+}
+.add-member i {
+	margin-left: 3%;
+
+}
+
+.add-member li {
+	width: 420px;
+	list-style-type: none;
+	border: 1px solid #A9A9A9;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 2%;
+}
+
+.add-member span {
+	margin-left: 5%;
+}
+
+#error-div{
+	position: relative;
+}
+
+.error-msg{
+	color: red;
+	font-size: 12;
+	position: absolute;
+	right: 8px;
+	padding-top: 5px;
+}
+
+.meeting-img{
+	width: 45%;
+	position: absolute;
+	top: 75%;
+	right: 2%;
+}
+
+.login-error{
+	width: 25%;
+	margin: auto;
+	padding-top: 100px;
+}
+
+.logout-img{
+	margin-top: 30px;
+	width: 100%;
+}
